@@ -80,9 +80,9 @@ $darkblue: rgb(1, 10, 38, 0.8);
 
 
 
-/*#only{
-  /*  color: $lighterblue;
-}*/
+#only{
+   color:#167888;
+}
 body{
     background-color: #010A26;
 }
@@ -136,9 +136,12 @@ p{
    
     background-color: #EF4C12;
     border-radius: 10px;
+   
     
 }
-
+.navbar-nav  .nav-item :hover{
+    color: #ffffff;
+}
 
 
 .show{
